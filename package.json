@@ -1,0 +1,17 @@
+{
+  "name": "lunaspins88 caino online",
+  "theme": "syntax",
+  "version": "1.1.0",
+  "description": "คาสิโนออนไลน์มาแรงแห่งปี lunaspins88 ฝาก ถอน ไม่มีขั้นต่ำ",
+  "keywords": [
+    "lunaspins88",
+    "lunaspins88 คาสิโน",
+    "lunaspins88 เว็บตรง",
+    "lunaspins88 เครดิตฟรี"
+  ],
+  "repository": "https://github.com/lucy911bet/lunaspins88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
